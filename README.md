@@ -19,7 +19,7 @@ This should be pretty self-explanatory, so I won't go into much detail. Buttons 
 
 https://github.com/Konsolkongen/PC-Engine-mini-rapid-fire-mod/blob/master/pictures/insides2.jpg
 
-Take care when removing the front artwork from the controller. Make sure you have the right tools needed so you don't suff the plastic or bend the artwork.
+Take care when removing the front artwork from the controller. Make sure you have the right tools needed so you don't scratch the plastic or bend the artwork.
 ![PCE controller front removal](/pictures/front_removal.jpg)
 
 Sand the LEDs flat and cut out a tight fit, so they sit flush against the front. If done right you won't be able to see or feel them once reassembled.
