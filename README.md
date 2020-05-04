@@ -1,6 +1,6 @@
 # PC Engine Mini rapid-fire mod
 
-A mod that enables rapid-fire on the white Japanese PCE controllers. These controllers unfortunately lacks the switches to enable rapid fire, which many feel is essential in some games.
+A mod that enables rapid-fire on the white Japanese PCE Mini controllers. These controllers unfortunately lacks the switches to enable rapid fire, that many feel is essential in some games.
 
 This mod uses an Arduino Pro mini, with a few optocouplers to reenable this feature without destroying the look of the controller.
 
