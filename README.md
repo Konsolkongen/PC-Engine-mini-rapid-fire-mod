@@ -34,7 +34,10 @@ https://github.com/Konsolkongen/PC-Engine-mini-rapid-fire-mod/blob/master/pictur
 Take care when removing the front artwork from the controller. Make sure you have the right tools needed so you don't scratch the plastic or bend the artwork.
 ![PCE controller front removal](/pictures/front_removal.jpg)
 
-Sand the LEDs flat and cut out a tight fit, so they sit flush against the front. If done right you won't be able to see or feel them once reassembled.
+Sand the LEDs flat for a diffused and more uniform light. You can paint the edges with permament marker to limit light leakage through the white plastic.
+![LED](https://user-images.githubusercontent.com/11447465/207148083-213716af-cc19-44f2-afa3-52467fd3b498.JPG)
+
+Cut out a tight fit, so they sit flush against the front. If done right you won't be able to see or feel them once reassembled.
 ![LED placement](/pictures/LED_placement.jpg)
 
 Reapply the artwork, and if done right you should have a nice uniform light shining through the red button labels.
